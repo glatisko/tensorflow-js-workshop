@@ -4,6 +4,7 @@
 // the link to your model provided by Teachable Machine export panel
 const URL = './demo-image-model/';
 
+
 let model, webcam, labelContainer, maxPredictions;
 const flip = true; // whether to flip the webcam
 
